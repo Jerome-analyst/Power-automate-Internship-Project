@@ -47,6 +47,8 @@ For valid records, the automation collects the confirmed information from the tr
 
 6. Save Processed Records
 All validated data is saved into a new Excel file with a clean, structured format, making it easier for the MIS office to review, report, and archive.
+# Demonstration
+
 # Expected Impact
 -The improved workflow helps the MIS office:
 
