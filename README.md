@@ -29,8 +29,29 @@ Microsoft Power BI — Data analysis and visualization
 Google Chrome — Accessing the university’s tracer system
 
 # Workflow Overview
+https://github.com/Jerome-analyst/Power-automate-Internship-Project/blob/main/Work%20Flow.png?raw=true
+#  Process Description 
+1. Excel Data Set
+The process starts with a structured Excel file containing student or staff records that need validation.
 
+2. Power Automate Reads the Records
+The automation workflow, built using Microsoft Power Automate, reads each row of data from the Excel dataset.
 
+3. Data is Entered into the Tracer Website
+Power Automate automatically inputs the relevant information from each record into the university’s web-based tracer system for validation.
+
+4. Check Validation Result
+The workflow verifies the response from the tracer system:
+
+   -If the record is valid, the process continues to retrieve the validated data.
+
+   -If the record is invalid or not found, it is marked as “Not Found” directly in the Excel file for further review.
+
+5. Retrieve Validated Data
+For valid records, the automation collects the confirmed information from the tracer system.
+
+6. Save Processed Records
+All validated data is saved into a new Excel file with a clean, structured format, making it easier for the MIS office to review, report, and archive.
 # Expected Impact
 -The improved workflow helps the MIS office:
 
