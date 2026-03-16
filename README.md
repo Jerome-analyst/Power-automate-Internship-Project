@@ -22,11 +22,11 @@ The automation aimed to:
 -Support MIS staff by reducing repetitive tasks
 
 # Tools I used
-Microsoft Excel — Data cleaning, organization, and validation
+Microsoft Excel — For data cleaning, organization, and validation of submitted datasets.
 
-Microsoft Power BI — Data analysis and visualization
+Power Automate — To automate the process of reading data, entering it into the tracer system, and recording results.
 
-Google Chrome — Accessing the university’s tracer system
+Google Chrome — Used to access and interact with the university’s web-based tracer system.
 
 # Workflow Overview
 <p align = "center">
