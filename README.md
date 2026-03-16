@@ -29,7 +29,9 @@ Microsoft Power BI — Data analysis and visualization
 Google Chrome — Accessing the university’s tracer system
 
 # Workflow Overview
-https://github.com/Jerome-analyst/Power-automate-Internship-Project/blob/main/Work%20Flow.png?raw=true
+<p align = "center">
+   <img src= "/Work Flow.png">
+</p>
 #  Process Description 
 1. Excel Data Set
 The process starts with a structured Excel file containing student or staff records that need validation.
