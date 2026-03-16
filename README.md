@@ -20,14 +20,6 @@ The automation aimed to:
 -Streamline the data preparation workflow
 
 -Support MIS staff by reducing repetitive tasks
-
-# Tools I used
-Microsoft Excel — For data cleaning, organization, and validation of submitted datasets.
-
-Power Automate — To automate the process of reading data, entering it into the tracer system, and recording results.
-
-Google Chrome — Used to access and interact with the university’s web-based tracer system.
-
 # Workflow Overview
 <p align = "center">
    <img src= "/Work Flow.png">
@@ -65,3 +57,10 @@ All validated data is saved into a new Excel file with a clean, structured forma
 -Process records more efficiently
 
 -Minimize potential human errors
+# Tools I used
+Microsoft Excel — For data cleaning, organization, and validation of submitted datasets.
+
+Power Automate — To automate the process of reading data, entering it into the tracer system, and recording results.
+
+Google Chrome — Used to access and interact with the university’s web-based tracer system.
+
