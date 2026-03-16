@@ -32,6 +32,7 @@ Google Chrome — Accessing the university’s tracer system
 <p align = "center">
    <img src= "/Work Flow.png">
 </p>
+
 #  Process Description 
 1. Excel Data Set
 The process starts with a structured Excel file containing student or staff records that need validation.
