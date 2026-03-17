@@ -13,13 +13,13 @@ The objective of this project was to design a more efficient workflow for valida
 
 The automation aimed to:
 
--Reduce the time spent on manual data validation
+ -Reduce the time spent on manual data validation
 
--Improve the accuracy and consistency of submitted data
+ -Improve the accuracy and consistency of submitted data
 
--Streamline the data preparation workflow
+ -Streamline the data preparation workflow
 
--Support MIS staff by reducing repetitive tasks
+ -Support MIS staff by reducing repetitive tasks
 # Workflow Overview
 <p align = "center">
    <img src= "/Work Flow.png">
@@ -50,15 +50,15 @@ All validated data is saved into a new Excel file with a clean, structured forma
 # Demonstration
 
 # Expected Impact
--The improved workflow helps the MIS office:
+The improved workflow helps the MIS office:
 
--Reduce manual validation workload
+ -Reduce manual validation workload
 
--Improve data accuracy and consistency
+ -Improve data accuracy and consistency
 
--Process records more efficiently
+ -Process records more efficiently
 
--Minimize potential human errors
+ -Minimize potential human errors
 # Tools I used
 Microsoft Excel — For data cleaning, organization, and validation of submitted datasets.
 
