@@ -49,7 +49,7 @@ For valid records, the automation collects the confirmed information from the tr
 All validated data is saved into a new Excel file with a clean, structured format, making it easier for the MIS office to review, report, and archive.
 # Power Automate Desktop
 <p align = "center">
-   <img src= "/Main Automation Workflow.png">
+   <img src = "https://github.com/Jerome-analyst/Power-automate-Internship-Project/blob/main/Main%20Automation%20%20Workflow.png">
 </p>
 <br>
 <p align = "center">
