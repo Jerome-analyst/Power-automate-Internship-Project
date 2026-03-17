@@ -47,7 +47,14 @@ For valid records, the automation collects the confirmed information from the tr
 
 6. Save Processed Records
 All validated data is saved into a new Excel file with a clean, structured format, making it easier for the MIS office to review, report, and archive.
-# Demonstration
+# Power Automate Desktop
+<p align = "center">
+   <img src= "/Main Automation Workflow.png">
+</p>
+<br>
+<p align = "center">
+   <img src= "/Main Automation Workflow(2).png">
+</p>
 
 # Expected Impact
 The improved workflow helps the MIS office:
